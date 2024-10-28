@@ -73,7 +73,7 @@ Key analysis queries include:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/netflix-data-analysis.git
+   git clone https://github.com/username/netflix-data-analysis.git
     ```
 2. Import the data into your SQL database.
 3. Run the SQL queries in `netflix_data_analysis.sql` to generate insights.
